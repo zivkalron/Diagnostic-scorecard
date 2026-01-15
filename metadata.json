@@ -1,0 +1,5 @@
+{
+  "name": "AI Readiness Scorecard",
+  "description": "A Sandler-Compliant diagnostic tool to assess organizational readiness for AI adoption, providing specific feedback based on Execution, Adoption, Data, and Mindset.",
+  "requestFramePermissions": []
+}
